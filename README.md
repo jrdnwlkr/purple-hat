@@ -1,4 +1,4 @@
-# Text Editor Starter Code
+# Text Editor PWA
 ## Description
 This application is used to take notes and save code snippets. As a PWA, it can used in the browser or it can be installed on the user's computer. Another great feature of a PWA is that it can store information that the user provides even when they lack an internet connection. Once a connection is restored, the application will save the data to the database.
 
